@@ -1,0 +1,28 @@
+h1{
+	font-family: 'Playfair Display', serif;
+}
+
+p{
+	font-style:italic;
+	font-weight:500;
+	font-size:15px;
+}
+.byline,
+.credit,
+.dateline{
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+}
+
+.byline{
+	font-weight: 600;
+}
+
+.byline,
+.credit {
+	text-transform: uppercase;
+}
+
+.headline{
+	font-weight: 800;
+}
