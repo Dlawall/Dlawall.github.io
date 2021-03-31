@@ -1,3 +1,10 @@
-h1{
-	color:#3388AC;
-	}
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 40px;
+}
+p {
+	font-family: 'Playfair Display', serif;
+	font-weight: 300;
+}
