@@ -1,0 +1,162 @@
+body {
+	background-color: #fc5f1a;
+}
+/* add padding to navbar*/
+h1 {
+	color: #010833;
+}
+.titlea {
+	font-family: 'anton', sans-serif;
+	font-size: 60px;
+	text-align: center;
+ }
+ .titleb {
+	font-family: 'anton', sans-serif;
+	font-size: 120px;
+	text-align: center;
+ }
+
+.byline {
+	text-align: center;
+	padding-top: 3%;
+}
+
+.illustrations {
+	text-align: center;
+	padding-bottom: 5%;
+	font-weight: 500;
+}
+
+b {
+	text-align: center;
+	line-height: 1px;
+}
+
+
+
+p { font-family:nunito, sans-serif;
+	font-size: 18px;
+
+}
+.title {
+	font-weight: 500;
+	line-height: 1;
+
+}
+img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 100%;
+}
+
+
+h2 {
+	font-family: 'anton', sans-serif;
+	text-align: center;
+	background-color: white;
+}
+ul {
+	font-family:nunito, sans-serif;
+	text-align: center;
+	font-size: 18px;
+	background-color:white;
+	padding-right: 2%;
+	padding-bottom: 5%;
+	padding-left: 2%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	list-style-position: inside;
+}
+
+h3 {
+	font-size: 70px;
+	letter-spacing: 2.5px;
+	padding: 2%;
+	margin: 2%;
+	color: #ffa500;
+	background-color: #010833;
+	font-family: 'anton', sans-serif;
+	text-align: center;
+}
+h4 {
+	font-size: 70px;
+	letter-spacing: 2.5px;
+	padding: 2%;
+	margin: 2%;
+	color: #ffa500;
+	background-color: #010833;
+	font-family: 'anton', sans-serif;
+	text-align: center;
+}
+h5 {
+	font-size: 70px;
+	letter-spacing: 2.5px;
+	padding: 2%;
+	margin: 2%;
+	color: #ffa500;
+	background-color: #010833;
+	font-family: 'anton', sans-serif;
+	text-align: center;
+}
+h6 {
+	font-size: 70px;
+	letter-spacing: 2.5px;
+	padding: 2%;
+	margin: 2%;
+	color: #ffa500;
+	background-color: #010833;
+	font-family: 'anton', sans-serif;
+	text-align: center;
+}
+h7 {
+	font-size: 70px;
+	letter-spacing: 2.5px;
+	padding: 2%;
+	margin: 2%;
+	color: #ffa500;
+	background-color: #010833;
+	font-family: 'anton', sans-serif;
+	text-align: center;
+}
+.listhead {
+	text-align: left;
+	font-weight: 500;
+	letter-spacing: 1.5px;
+	font-size:18px;
+	color: #ffa500;
+}
+.listsub {
+	text-align: left;
+	font-family: 'anton', sans-serif;
+	color: #010833;
+	font-size: 30px;
+	padding: 0;
+	margin: 0;
+}
+.listbase {
+	text-align: left;
+	font-weight: 200;
+	font-size: 16px;
+	color: #010833;
+}
+.listbox {
+	text-align: left;
+	font-family:nunito, sans-serif;
+	font-size: 18px;
+}
+#right {
+	float: right;
+}
+.line {
+	border-top: 2px;
+	border-color: white;
+	border-width: 25%;
+	margin: 0 auto;
+}
+title {
+	font-weight: 600;
+}
+.credits {
+	font-size: 14px;
+}
